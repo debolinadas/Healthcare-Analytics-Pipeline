@@ -1,0 +1,518 @@
+Order ID,Order Date,Product Code,Product,Category,Unit cost  Price,Unit sales price Price,Unit,Sales Amount,Discount_pct,City,Customer Name,Gender ,Age,State,Region
+OD1,11/8/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,22,1254,0.12,Kanoor,Harish,F,17,Kerala,Kerala
+OD3,6/12/2017,SER118,Atta & Flour,Food Grains,182.9,248.95,12,2360,0.21,Wayanad,Hussain,M,34,Kerala,Kerala
+OD4,10/11/2016,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,43,896,0.25,Kanoor,Jackson,F,21,Kerala,Kerala
+OD5,10/11/2016,RFT452,Organic Staples,Food Grains,35.91,79.56,40,2355,0.26,Solapur,Ridhesh,F,20,Maharshtra,Maharshtra
+OD6,6/9/2015,RFT452,Organic Staples,Food Grains,35.91,79.56,28,1648.5,0.26,Chennai,Adavan,F,37,Tamil Nadu,Tamil Nadu
+OD7,6/9/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,8,148.92,0.33,Aurangabad,Jonas,M,35,Maharshtra,Maharshtra
+OD8,6/9/2015,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,35,1847,0.32,Thiruvananthapuram,Hafiz,F,28,Kerala,Kerala
+OD9,6/9/2015,TYD470,Biscuits,Bakery,14.86,25.06,41,791,0.23,Ujjan,Hafiz,F,28,MadhyaPradesh,MadhyaPradesh
+OD10,6/9/2015,CLW531,Cakes,Bakery,31.96,59.97,41,1795,0.27,Shimla,Krithika,F,24,Himachal Pradesh,Himachal Pradesh
+OD11,6/9/2015,TYD646,Chocolates,Snacks,77.12,115.12,19,1903,0.13,Dhenkanal,Ganesh,F,35,Orrisa,Orrisa
+OD12,6/9/2015,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,40,701,0.1,Manali,Yadav,M,23,Himachal Pradesh,Himachal Pradesh
+OD13,4/15/2018,RFT905,Cookies,Snacks,58.43,89.05,23,1659,0.19,Salem,Sharon,F,25,Tamil Nadu,Tamil Nadu
+OD14,12/5/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,19,395.91,0.25,Angul,Peer,M,18,Orrisa,Orrisa
+OD15,11/22/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,40,831,0.22,Bhuwneshwar,Sundar,M,34,Orrisa,Orrisa
+OD16,11/22/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,5,1440,0.11,Gwalior,Ramesh,M,22,MadhyaPradesh,MadhyaPradesh
+OD17,11/11/2015,CLW531,Cakes,Bakery,31.96,59.97,22,949.98,0.28,Kollam,Alan,F,29,Kerala,Kerala
+OD19,8/27/2015,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,43,1757,0.35,Delhi,Haseena,F,35,Delhi,Delhi
+OD20,8/27/2015,SER922,,,,,37,692,0.29,Angul,Verma,F,36,Orrisa,Orrisa
+OD22,12/9/2017,TYD656,,,,,15,948,0.13,Kozhikode,Alan,F,29,Kerala,Kerala
+OD23,12/9/2017,SER922,,,,,48,834.51,0.34,Delhi,Haseena,F,35,Delhi,Delhi
+OD24,7/16/2018,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,36,969,0.29,Mangalore,Alan,F,29,Karnataka,Karnataka
+OD25,9/25/2016,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,29,502.58,0.11,Dhenkanal,Sharon,F,25,Orrisa,Orrisa
+OD26,1/16/2017,TYD646,Chocolates,Snacks,77.12,115.12,18,1844.29,0.11,Vijayawada,Krithika,F,24,Andra Pradesh,Andra Pradesh
+OD27,1/16/2017,RFT905,Cookies,Snacks,58.43,89.05,26,2037.46,0.12,Kollam,Muneer,M,36,Kerala,Kerala
+OD28,9/17/2016,TYD470,Biscuits,Bakery,14.86,25.06,15,293.15,0.22,Delhi,Jackson,F,21,Delhi,Delhi
+OD29,9/17/2016,SER922,,,,,50,1027.33,0.22,Angul,Veronica,M,23,Orrisa,Orrisa
+OD30,9/17/2016,RFT488,Masalas,Oil & Masala,38.76,64.77,39,2096.69,0.17,Mangalore,Shah,F,22,Karnataka,Karnataka
+OD31,9/17/2016,SER922,,,,,6,120.12,0.24,Nellore,Ramesh,M,22,Andra Pradesh,Andra Pradesh
+OD32,9/17/2016,RFT600,Noodles,Snacks,20.42,32.77,48,1400,0.11,Mumbai,Mathew,F,27,Maharshtra,Maharshtra
+OD33,9/17/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,8,1915.69,0.26,Vijayawada,Akash,F,30,Andra Pradesh,Andra Pradesh
+OD34,9/17/2016,RFT488,Masalas,Oil & Masala,38.76,64.77,13,555.75,0.34,Nellore,Anu,M,20,Andra Pradesh,Andra Pradesh
+OD36,12/8/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,6,91.13,0.22,Mumbai,Sabeela,F,37,Maharshtra,Maharshtra
+OD37,12/8/2017,SER922,,,,,10,171.22,0.35,Salem,James,M,32,Tamil Nadu,Tamil Nadu
+OD38,12/27/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,34,1082.73,0.16,Gwalior,Willams,F,31,MadhyaPradesh,MadhyaPradesh
+OD39,12/27/2016,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,24,1508.64,0.19,Wayanad,Jonas,M,35,Kerala,Kerala
+OD40,12/27/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,42,861.36,0.23,Bhopal,Sabeela,F,37,MadhyaPradesh,MadhyaPradesh
+OD42,9/10/2018,SER922,,,,,25,540.01,0.18,Surat,Arutra,F,17,Gujarat,Gujarat
+OD43,7/17/2017,RFT905,Cookies,Snacks,58.43,89.05,28,1870.05,0.25,Thiruvananthapuram,Sharon,F,25,Kerala,Kerala
+OD44,9/19/2018,RFT905,Cookies,Snacks,58.43,89.05,19,1353.56,0.2,Bangalore,Mathew,F,27,Karnataka,Karnataka
+OD45,3/11/2017,TYD470,Biscuits,Bakery,14.86,25.06,32,665.47,0.17,Chennai,Amrish,M,23,Tamil Nadu,Tamil Nadu
+OD46,3/11/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,10,157.73,0.19,Dhenkanal,Vince,F,37,Orrisa,Orrisa
+OD47,10/20/2015,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,32,837.07,0.31,Delhi,Suresh,F,20,Delhi,Delhi
+OD48,6/20/2017,RFT600,Noodles,Snacks,20.42,32.77,14,321.16,0.3,Bangalore,Mathew,F,27,Karnataka,Karnataka
+OD49,6/20/2017,RFT600,Noodles,Snacks,20.42,32.77,1,26.87,0.18,Ahmedabad,Ridhesh,F,20,Gujarat,Gujarat
+OD50,4/18/2016,CLW531,Cakes,Bakery,31.96,59.97,49,2497.89,0.15,Kochi,Amrish,M,23,Kerala,Kerala
+OD51,4/18/2016,SER922,,,,,32,598.49,0.29,Thiruvananthapuram,Esther,M,21,Kerala,Kerala
+OD52,4/18/2016,SER922,,,,,27,497.86,0.3,Kanoor,Shah,F,22,Kerala,Kerala
+OD53,4/18/2016,CLW531,Cakes,Bakery,31.96,59.97,1,48.58,0.19,Varodara,Sudha,F,22,Gujarat,Gujarat
+OD54,12/11/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,10,186.15,0.33,Mysore,Yusuf,F,32,Karnataka,Karnataka
+OD55,12/11/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,21,760,0.28,Varodara,Esther,M,21,Gujarat,Gujarat
+OD56,6/17/2017,SER118,Atta & Flour,Food Grains,182.9,248.95,7,1481.22,0.15,Bangalore,Muneer,M,36,Karnataka,Karnataka
+OD57,6/17/2017,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,15,1179,0.34,Varodara,Komal,M,21,Gujarat,Gujarat
+OD58,6/17/2017,TYD656,,,,,8,377.75,0.35,Solapur,Veena,F,21,Maharshtra,Maharshtra
+OD59,6/17/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,44,1797.86,0.35,Gandinager,Sharon,F,25,Gujarat,Gujarat
+OD61,6/17/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,26,1212.55,0.28,Kollam,Roshan,F,31,Kerala,Kerala
+OD62,6/17/2017,RFT600,Noodles,Snacks,20.42,32.77,18,395.22,0.33,Delhi,Willams,F,31,Delhi,Delhi
+OD63,11/24/2016,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,13,1161.14,0.25,Bhopal,Sudeep,F,18,MadhyaPradesh,MadhyaPradesh
+OD64,11/24/2016,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,46,2463.18,0.31,Kochi,Yusuf,F,32,Kerala,Kerala
+OD65,11/24/2016,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,27,410.09,0.22,Krishnagiri,Willams,F,31,Tamil Nadu,Tamil Nadu
+OD66,11/24/2016,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,35,1650.13,0.25,Delhi,Muneer,M,36,Delhi,Delhi
+OD67,4/30/2016,SER118,Atta & Flour,Food Grains,182.9,248.95,32,7089.96,0.11,Delhi,Vinne,M,31,Delhi,Delhi
+OD68,12/5/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,25,583.44,0.16,Bhopal,Roshan,F,31,MadhyaPradesh,MadhyaPradesh
+OD69,12/5/2015,SER118,Atta & Flour,Food Grains,182.9,248.95,44,8434.26,0.23,Dharamsala,Ramesh,M,22,Himachal Pradesh,Himachal Pradesh
+OD70,6/4/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,31,1726.84,0.14,Krishnagiri,Peer,M,18,Tamil Nadu,Tamil Nadu
+OD71,9/18/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,41,1778.37,0.31,Bhuwneshwar,Verma,F,36,Orrisa,Orrisa
+OD72,9/14/2018,RFT600,Noodles,Snacks,20.42,32.77,42,1128.65,0.18,Aurangabad,Yusuf,F,32,Maharshtra,Maharshtra
+OD73,4/26/2016,RFT905,Cookies,Snacks,58.43,89.05,48,3120.31,0.27,Delhi,Alan,F,29,Delhi,Delhi
+OD74,4/26/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,10,299.5,0.21,Ujjan,Vidya,F,24,MadhyaPradesh,MadhyaPradesh
+OD75,4/26/2016,SER922,,,,,14,320.84,0.13,Ujjan,Arvind,M,32,MadhyaPradesh,MadhyaPradesh
+OD76,12/9/2018,SER922,,,,,33,764.97,0.12,Bangalore,Veronica,M,23,Karnataka,Karnataka
+OD77,12/9/2018,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,12,440.32,0.27,Delhi,Arvind,M,32,Delhi,Delhi
+OD78,12/9/2018,RFT600,Noodles,Snacks,20.42,32.77,18,407.02,0.31,Kasauli,Anu,M,20,Himachal Pradesh,Himachal Pradesh
+OD79,11/26/2015,RFT905,Cookies,Snacks,58.43,89.05,23,1638.52,0.2,Jabalpur,Haseena,F,35,MadhyaPradesh,MadhyaPradesh
+OD80,6/12/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,40,1487.83,0.26,Nellore,Veena,F,21,Andra Pradesh,Andra Pradesh
+OD82,10/12/2015,SER118,Atta & Flour,Food Grains,182.9,248.95,21,3711.77,0.29,Kochi,Amy,M,34,Kerala,Kerala
+OD83,10/12/2015,CLW714,Spices,Oil & Masala,69.3,121.62,11,990,0.26,Bhuwneshwar,Komal,M,21,Orrisa,Orrisa
+OD84,9/3/2016,SER922,,,,,12,281.33,0.11,Kasauli,Ravi,M,37,Himachal Pradesh,Himachal Pradesh
+OD85,11/13/2018,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,2,90.48,0.1,Delhi,Amy,M,34,Delhi,Delhi
+OD86,5/28/2018,CLW714,Spices,Oil & Masala,69.3,121.62,5,456.08,0.25,Delhi,Willams,F,31,Delhi,Delhi
+OD87,10/26/2018,CLP711,Rice,Food Grains,39.43,67.39,29,1759,0.1,Delhi,Sharon,F,25,Delhi,Delhi
+OD88,10/26/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,11,158.5,0.26,Vijayawada,Ramesh,M,22,Andra Pradesh,Andra Pradesh
+OD89,4/5/2017,SER215,Breads & Buns,Bakery,160.08,222.68,12,2111,0.21,Kasauli,Sheeba,M,22,Himachal Pradesh,Himachal Pradesh
+OD90,9/17/2017,TYD656,,,,,23,1470.31,0.12,Kochi,Krithika,F,24,Kerala,Kerala
+OD91,9/17/2017,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,37,650.42,0.34,Rajkot,Willams,F,31,Gujarat,Gujarat
+OD93,1/31/2016,SER118,Atta & Flour,Food Grains,182.9,248.95,7,1498.65,0.14,Dharamsala,Ravi,M,37,Himachal Pradesh,Himachal Pradesh
+OD94,1/31/2016,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,20,1039.91,0.33,Kozhikode,Ram,M,24,Kerala,Kerala
+OD95,1/31/2016,TYD646,Chocolates,Snacks,77.12,115.12,34,2818.24,0.28,Surat,Mathew,F,27,Gujarat,Gujarat
+OD96,11/6/2018,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,42,4351.58,0.13,Dharamsala,Veena,F,21,Himachal Pradesh,Himachal Pradesh
+OD97,11/9/2018,SER118,Atta & Flour,Food Grains,182.9,248.95,3,590,0.21,Shimla,Sudha,F,22,Himachal Pradesh,Himachal Pradesh
+OD98,6/17/2018,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,46,2463.18,0.31,Delhi,Sharon,F,25,Delhi,Delhi
+OD99,9/6/2017,TYD646,Chocolates,Snacks,77.12,115.12,45,3730.02,0.28,Kollam,Vince,F,37,Kerala,Kerala
+OD100,8/29/2017,CLW714,Spices,Oil & Masala,69.3,121.62,50,4500,0.26,Mangalore,Krithika,F,24,Karnataka,Karnataka
+OD101,8/29/2017,CLW531,Cakes,Bakery,31.96,59.97,46,1793.2,0.35,Shimoga,Adavan,F,37,Karnataka,Karnataka
+OD102,8/29/2017,SER922,,,,,13,284.23,0.17,Wayanad,Roshan,F,31,Kerala,Kerala
+OD103,12/1/2017,TYD646,Chocolates,Snacks,77.12,115.12,23,2171.24,0.18,Shimoga,Vinne,M,31,Karnataka,Karnataka
+OD104,11/13/2016,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,26,1472.94,0.27,Salem,Amy,M,34,Tamil Nadu,Tamil Nadu
+OD105,11/13/2016,TYD656,,,,,36,2249.05,0.14,Sanchi,Suresh,F,20,MadhyaPradesh,MadhyaPradesh
+OD106,11/13/2016,RFT488,Masalas,Oil & Masala,38.76,64.77,47,2039.69,0.33,Delhi,Komal,M,21,Delhi,Delhi
+OD108,11/23/2018,RFT905,Cookies,Snacks,58.43,89.05,25,1469.32,0.34,Manali,Willams,F,31,Himachal Pradesh,Himachal Pradesh
+OD109,11/23/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,10,153.83,0.21,Shimoga,Vidya,F,24,Karnataka,Karnataka
+OD110,10/15/2016,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,21,1368.95,0.16,Shimla,Shree,M,25,Himachal Pradesh,Himachal Pradesh
+OD111,12/25/2018,TYD656,,,,,49,3132.4,0.12,Delhi,Sundar,M,34,Delhi,Delhi
+OD112,11/3/2017,SER215,Breads & Buns,Bakery,160.08,222.68,30,6012.34,0.1,Kolar,Arvind,M,32,Karnataka,Karnataka
+OD113,11/3/2017,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,12,2718.2,0.3,Rajkot,Ravi,M,37,Gujarat,Gujarat
+OD114,8/25/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,23,575.11,0.1,Delhi,Vinne,M,31,Delhi,Delhi
+OD115,8/25/2015,RFT600,Noodles,Snacks,20.42,32.77,15,437.5,0.11,Surat,Muneer,M,36,Gujarat,Gujarat
+OD116,8/25/2015,TYD646,Chocolates,Snacks,77.12,115.12,27,2362.34,0.24,Mangalore,Rumaiza,M,28,Karnataka,Karnataka
+OD117,8/25/2015,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,41,1648.68,0.2,Mumbai,Hussain,M,34,Maharshtra,Maharshtra
+OD118,3/2/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,24,809.77,0.11,Kasauli,Arvind,M,32,Himachal Pradesh,Himachal Pradesh
+OD119,4/5/2016,CLP711,Rice,Food Grains,39.43,67.39,21,1273.76,0.1,Shimoga,Akash,F,30,Karnataka,Karnataka
+OD120,6/12/2017,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,39,914.1,0.12,Kasauli,Ganesh,F,35,Himachal Pradesh,Himachal Pradesh
+OD121,6/12/2017,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,21,605.06,0.24,Aurangabad,Alan,F,29,Maharshtra,Maharshtra
+OD122,6/12/2017,CLW531,Cakes,Bakery,31.96,59.97,32,1266.64,0.34,Varodara,Harish,F,17,Gujarat,Gujarat
+OD123,6/12/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,27,1510.58,0.11,Bhuwneshwar,Veronica,M,23,Orrisa,Orrisa
+OD124,6/12/2017,SER922,,,,,10,192.3,0.27,Sanchi,Anu,M,20,MadhyaPradesh,MadhyaPradesh
+OD125,12/26/2015,SER215,Breads & Buns,Bakery,160.08,222.68,42,6920.87,0.26,Mysore,Sudeep,F,18,Karnataka,Karnataka
+OD126,9/20/2015,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,11,337.79,0.19,Bharampur,Yusuf,F,32,Orrisa,Orrisa
+OD127,11/5/2018,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,13,678.28,0.17,Cuttak,Shah,F,22,Orrisa,Orrisa
+OD128,11/5/2018,CLW714,Spices,Oil & Masala,69.3,121.62,2,187.3,0.23,Chamba,Harish,F,17,Himachal Pradesh,Himachal Pradesh
+OD129,11/6/2017,CLP711,Rice,Food Grains,39.43,67.39,40,1914.01,0.29,Tirupati,Sharon,F,25,Andra Pradesh,Andra Pradesh
+OD130,11/6/2017,SER118,Atta & Flour,Food Grains,182.9,248.95,8,1553.42,0.22,Jabalpur,Peer,M,18,MadhyaPradesh,MadhyaPradesh
+OD131,2/2/2018,TYD646,Chocolates,Snacks,77.12,115.12,30,2452.14,0.29,Salem,Haseena,F,35,Tamil Nadu,Tamil Nadu
+OD132,2/2/2018,SER922,,,,,50,948.31,0.28,Kolar,Sundar,M,34,Karnataka,Karnataka
+OD133,2/2/2018,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,40,3620.36,0.24,Mangalore,Ram,M,24,Karnataka,Karnataka
+OD134,10/13/2017,CLW531,Cakes,Bakery,31.96,59.97,5,263.88,0.12,Angul,Shah,F,22,Orrisa,Orrisa
+OD136,10/13/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,13,529.29,0.19,Thene,Veena,F,21,Maharshtra,Maharshtra
+OD137,10/13/2017,CLW714,Spices,Oil & Masala,69.3,121.62,14,1191.89,0.3,Kochi,Sundar,M,34,Kerala,Kerala
+OD138,10/13/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,1,16.75,0.14,Ujjan,Jackson,F,21,MadhyaPradesh,MadhyaPradesh
+OD139,10/13/2017,RFT600,Noodles,Snacks,20.42,32.77,25,663.62,0.19,Tirupati,Malik,F,18,Andra Pradesh,Andra Pradesh
+OD140,10/13/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,28,1267.3,0.28,Delhi,Hussain,M,34,Delhi,Delhi
+OD141,9/5/2017,TYD470,Biscuits,Bakery,14.86,25.06,27,460.02,0.32,Thene,Veena,F,21,Maharshtra,Maharshtra
+OD142,9/18/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,32,1782.55,0.14,Nellore,Aditi,F,34,Andra Pradesh,Andra Pradesh
+OD143,9/18/2018,SER118,Atta & Flour,Food Grains,182.9,248.95,25,5539.03,0.11,Aurangabad,Surya,F,36,Maharshtra,Maharshtra
+OD144,9/18/2018,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,40,3620.36,0.24,Delhi,Sharon,F,25,Delhi,Delhi
+OD145,12/22/2018,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,13,653.77,0.2,Wayanad,Vinne,M,31,Kerala,Kerala
+OD146,9/7/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,37,10416.54,0.13,Kollam,Malik,F,18,Kerala,Kerala
+OD147,10/22/2015,RFT452,Organic Staples,Food Grains,35.91,79.56,30,1742.38,0.27,Kochi,Ridhesh,F,20,Kerala,Kerala
+OD148,12/5/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,18,335.06,0.33,Krishnagiri,Harish,F,17,Tamil Nadu,Tamil Nadu
+OD150,12/5/2017,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,12,1057.53,0.26,Mangalore,Ravi,M,37,Karnataka,Karnataka
+OD151,12/5/2017,CLP711,Rice,Food Grains,39.43,67.39,33,1934.9,0.13,Ooty,Muneer,M,36,Tamil Nadu,Tamil Nadu
+OD152,3/13/2017,TYD646,Chocolates,Snacks,77.12,115.12,37,2811.33,0.34,Chennai,Jackson,F,21,Tamil Nadu,Tamil Nadu
+OD153,3/13/2017,RFT905,Cookies,Snacks,58.43,89.05,23,1515.63,0.26,Thiruvananthapuram,Amy,M,34,Kerala,Kerala
+OD154,5/31/2016,RFT452,Organic Staples,Food Grains,35.91,79.56,19,1088.39,0.28,Kollam,Ram,M,24,Kerala,Kerala
+OD155,5/31/2016,RFT600,Noodles,Snacks,20.42,32.77,18,507.3,0.14,Bhopal,Jonas,M,35,MadhyaPradesh,MadhyaPradesh
+OD156,5/31/2016,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,33,623.45,0.32,Chennai,Ramesh,M,22,Tamil Nadu,Tamil Nadu
+OD157,5/28/2016,RFT905,Cookies,Snacks,58.43,89.05,8,569.92,0.2,Delhi,Peer,M,18,Delhi,Delhi
+OD158,3/1/2015,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,34,9351.91,0.15,Tirupati,Komal,M,21,Andra Pradesh,Andra Pradesh
+OD159,11/20/2017,SER922,,,,,50,1040.5,0.21,Bhopal,Amy,M,34,MadhyaPradesh,MadhyaPradesh
+OD160,11/20/2017,TYD656,,,,,32,2068.89,0.11,Mysore,Amrish,M,23,Karnataka,Karnataka
+OD161,5/11/2017,SER922,,,,,21,387.22,0.3,Kollam,Yadav,M,23,Kerala,Kerala
+OD162,12/28/2016,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,34,3239.27,0.2,Ooty,Vinne,M,31,Tamil Nadu,Tamil Nadu
+OD163,11/16/2017,TYD646,Chocolates,Snacks,77.12,115.12,5,425.96,0.26,Chennai,Amrish,M,23,Tamil Nadu,Tamil Nadu
+OD164,11/7/2017,RFT905,Cookies,Snacks,58.43,89.05,26,1574.4,0.32,Delhi,Hussain,M,34,Delhi,Delhi
+OD165,9/8/2015,SER118,Atta & Flour,Food Grains,182.9,248.95,8,1433.92,0.28,Dhenkanal,Haseena,F,35,Orrisa,Orrisa
+OD167,9/8/2015,TYD646,Chocolates,Snacks,77.12,115.12,35,3505.53,0.13,Dharamsala,Adavan,F,37,Himachal Pradesh,Himachal Pradesh
+OD168,9/8/2015,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,38,1791.57,0.25,Bangalore,Aditi,F,34,Karnataka,Karnataka
+OD169,9/8/2015,CLW714,Spices,Oil & Masala,69.3,121.62,21,2170.95,0.15,Solapur,Krithika,F,24,Maharshtra,Maharshtra
+OD170,9/8/2015,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,41,873.62,0.2,Jabalpur,Sharon,F,25,MadhyaPradesh,MadhyaPradesh
+OD171,9/8/2015,TYD656,,,,,19,1035.17,0.25,Kasauli,Akash,F,30,Himachal Pradesh,Himachal Pradesh
+OD173,8/5/2015,TYD656,,,,,37,1827.71,0.32,Delhi,Surya,F,36,Delhi,Delhi
+OD174,8/5/2015,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,46,1168.41,0.33,Gwalior,Alan,F,29,MadhyaPradesh,MadhyaPradesh
+OD175,9/14/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,37,750.42,0.27,Cuttak,Aditi,F,34,Orrisa,Orrisa
+OD176,9/14/2015,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,50,2136.24,0.15,Gandinager,Shah,F,22,Gujarat,Gujarat
+OD177,4/21/2018,CLW714,Spices,Oil & Masala,69.3,121.62,40,3697.3,0.24,Tirupati,Mathew,F,27,Andra Pradesh,Andra Pradesh
+OD178,11/21/2016,RFT600,Noodles,Snacks,20.42,32.77,42,977.25,0.29,Gwalior,Rumaiza,M,28,MadhyaPradesh,MadhyaPradesh
+OD179,11/21/2016,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,25,879.63,0.3,Delhi,Arvind,M,32,Delhi,Delhi
+OD180,12/15/2016,SER118,Atta & Flour,Food Grains,182.9,248.95,18,3764.05,0.16,Delhi,Krithika,F,24,Delhi,Delhi
+OD181,12/5/2015,RFT905,Cookies,Snacks,58.43,89.05,3,200.36,0.25,Kozhikode,Arvind,M,32,Kerala,Kerala
+OD183,11/19/2015,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,12,2524.04,0.35,Mangalore,Jonas,M,35,Karnataka,Karnataka
+OD184,11/19/2015,RFT452,Organic Staples,Food Grains,35.91,79.56,27,1739.99,0.19,Shimoga,Surya,F,36,Karnataka,Karnataka
+OD185,11/19/2015,TYD656,,,,,49,2562.87,0.28,Sanchi,Amrish,M,23,MadhyaPradesh,MadhyaPradesh
+OD186,11/28/2017,RFT600,Noodles,Snacks,20.42,32.77,32,681.65,0.35,Kozhikode,Shah,F,22,Kerala,Kerala
+OD187,8/26/2015,CLW531,Cakes,Bakery,31.96,59.97,18,852.82,0.21,Kolar,Krithika,F,24,Karnataka,Karnataka
+OD188,7/16/2017,SER922,,,,,44,973.59,0.16,Dwarka,Anu,M,20,Gujarat,Gujarat
+OD189,7/16/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,40,1528.04,0.24,Tirupati,Yusuf,F,32,Andra Pradesh,Andra Pradesh
+OD190,10/12/2016,SER922,,,,,28,516.3,0.3,Bhopal,Rumaiza,M,28,MadhyaPradesh,MadhyaPradesh
+OD191,10/12/2016,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,34,1521.01,0.11,Sanchi,Amrish,M,23,MadhyaPradesh,MadhyaPradesh
+OD192,10/12/2016,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,9,207.54,0.17,Delhi,Muneer,M,36,Delhi,Delhi
+OD194,10/12/2016,RFT488,Masalas,Oil & Masala,38.76,64.77,49,2380.4,0.25,Aurangabad,Suresh,F,20,Maharshtra,Maharshtra
+OD195,10/31/2016,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,12,205.63,0.12,Salem,Peer,M,18,Tamil Nadu,Tamil Nadu
+OD196,3/21/2015,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,43,10435.96,0.25,Wayanad,Sundar,M,34,Kerala,Kerala
+OD197,3/21/2015,SER215,Breads & Buns,Bakery,160.08,222.68,45,8417.28,0.16,Manali,Sudeep,F,18,Himachal Pradesh,Himachal Pradesh
+OD198,11/6/2018,RFT452,Organic Staples,Food Grains,35.91,79.56,19,997.69,0.34,Dhenkanal,Verma,F,36,Orrisa,Orrisa
+OD199,7/6/2018,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,46,2024.16,0.3,Dwarka,Surya,F,36,Gujarat,Gujarat
+OD200,7/6/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,43,627.98,0.25,Angul,Sudha,F,22,Orrisa,Orrisa
+OD201,6/24/2018,RFT452,Organic Staples,Food Grains,35.91,79.56,5,310.29,0.22,Bharampur,James,M,32,Orrisa,Orrisa
+OD202,8/3/2015,CLW531,Cakes,Bakery,31.96,59.97,10,449.8,0.25,Vijayawada,Vidya,F,24,Andra Pradesh,Andra Pradesh
+OD203,8/3/2015,RFT452,Organic Staples,Food Grains,35.91,79.56,16,967.46,0.24,Tirupati,Jackson,F,21,Andra Pradesh,Andra Pradesh
+OD204,12/17/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,42,2394,0.12,Thene,Akash,F,30,Maharshtra,Maharshtra
+OD205,6/3/2018,CLW714,Spices,Oil & Masala,69.3,121.62,1,85.14,0.3,Aurangabad,Ram,M,24,Maharshtra,Maharshtra
+OD206,12/9/2018,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,7,312.43,0.29,Sanchi,Vinne,M,31,MadhyaPradesh,MadhyaPradesh
+OD207,12/1/2018,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,8,181.12,0.15,Delhi,Verma,F,36,Delhi,Delhi
+OD208,12/1/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,10,146.04,0.25,Ahmedabad,Haseena,F,35,Gujarat,Gujarat
+OD209,12/1/2018,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,21,1056.09,0.2,Kozhikode,Esther,M,21,Kerala,Kerala
+OD210,12/1/2018,SER922,,,,,50,935.14,0.29,Mumbai,Amrish,M,23,Maharshtra,Maharshtra
+OD211,12/1/2018,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,31,822.66,0.3,Solapur,Hafiz,F,28,Maharshtra,Maharshtra
+OD212,2/9/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,13,256.23,0.26,Nellore,Verma,F,36,Andra Pradesh,Andra Pradesh
+OD213,1/2/2016,SER922,,,,,26,582.15,0.15,Krishnagiri,Peer,M,18,Tamil Nadu,Tamil Nadu
+OD214,1/2/2016,CLP711,Rice,Food Grains,39.43,67.39,5,299.91,0.11,Angul,Arutra,F,17,Orrisa,Orrisa
+OD216,1/2/2016,RFT600,Noodles,Snacks,20.42,32.77,48,1085.39,0.31,Solapur,Harish,F,17,Maharshtra,Maharshtra
+OD217,1/2/2016,CLP711,Rice,Food Grains,39.43,67.39,10,465.02,0.31,Thene,Sundar,M,34,Maharshtra,Maharshtra
+OD218,10/28/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,17,913.94,0.17,Delhi,Suresh,F,20,Delhi,Delhi
+OD219,10/28/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,22,729.84,0.34,Aurangabad,Sabeela,F,37,Maharshtra,Maharshtra
+OD220,12/24/2016,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,27,562.6,0.25,Aurangabad,Arvind,M,32,Maharshtra,Maharshtra
+OD221,12/24/2016,TYD656,,,,,27,1569.1,0.2,Kochi,Ramesh,M,22,Kerala,Kerala
+OD222,12/24/2016,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,37,3525.09,0.2,Manali,Willams,F,31,Himachal Pradesh,Himachal Pradesh
+OD223,12/24/2016,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,33,3183.3,0.19,Mysore,Ramesh,M,22,Karnataka,Karnataka
+OD224,12/24/2016,SER922,,,,,35,820.55,0.11,Pune,Yadav,M,23,Maharshtra,Maharshtra
+OD225,12/24/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,8,178.98,0.16,Guntur,Krithika,F,24,Andra Pradesh,Andra Pradesh
+OD226,8/9/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,16,323.88,0.24,Krishnagiri,Verma,F,36,Tamil Nadu,Tamil Nadu
+OD227,8/9/2016,RFT452,Organic Staples,Food Grains,35.91,79.56,32,2113.14,0.17,Kozhikode,Komal,M,21,Kerala,Kerala
+OD228,8/9/2016,RFT905,Cookies,Snacks,58.43,89.05,16,940.37,0.34,Salem,Harish,F,17,Tamil Nadu,Tamil Nadu
+OD229,2/28/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,26,6562.52,0.22,Madhuri,Sudha,F,22,Tamil Nadu,Tamil Nadu
+OD231,9/13/2015,SER215,Breads & Buns,Bakery,160.08,222.68,22,3870.17,0.21,Delhi,Arvind,M,32,Delhi,Delhi
+OD232,4/7/2018,SER922,,,,,31,636.95,0.22,Dhenkanal,Komal,M,21,Orrisa,Orrisa
+OD233,4/7/2018,TYD656,,,,,17,1012.65,0.18,Chennai,Komal,M,21,Tamil Nadu,Tamil Nadu
+OD234,4/7/2018,RFT905,Cookies,Snacks,58.43,89.05,19,1319.72,0.22,Dharamsala,Ramesh,M,22,Himachal Pradesh,Himachal Pradesh
+OD235,4/7/2018,SER922,,,,,6,139.08,0.12,Kolar,Mathew,F,27,Karnataka,Karnataka
+OD236,4/7/2018,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,31,1293.31,0.17,Bhopal,Vince,F,37,MadhyaPradesh,MadhyaPradesh
+OD237,11/12/2018,CLW531,Cakes,Bakery,31.96,59.97,3,151.13,0.16,Aurangabad,Shah,F,22,Maharshtra,Maharshtra
+OD238,6/4/2017,SER215,Breads & Buns,Bakery,160.08,222.68,8,1229.19,0.31,Rajkot,Ravi,M,37,Gujarat,Gujarat
+OD239,6/4/2017,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,22,708.93,0.15,Dhenkanal,Adavan,F,37,Orrisa,Orrisa
+OD240,6/4/2017,RFT905,Cookies,Snacks,58.43,89.05,48,3675.98,0.14,Ahmedabad,Arvind,M,32,Gujarat,Gujarat
+OD241,6/4/2017,CLW531,Cakes,Bakery,31.96,59.97,14,562.55,0.33,Kollam,Ramesh,M,22,Kerala,Kerala
+OD243,6/4/2017,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,31,8827.69,0.12,Ooty,Muneer,M,36,Tamil Nadu,Tamil Nadu
+OD244,6/4/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,34,1960.02,0.11,Madhuri,Amy,M,34,Tamil Nadu,Tamil Nadu
+OD245,6/1/2015,TYD470,Biscuits,Bakery,14.86,25.06,26,553.73,0.15,Salem,Roshan,F,31,Tamil Nadu,Tamil Nadu
+OD246,6/1/2015,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,19,1561.28,0.31,Angul,Vinne,M,31,Orrisa,Orrisa
+OD247,6/1/2015,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,6,238.25,0.21,Kolar,Sudeep,F,18,Karnataka,Karnataka
+OD249,6/1/2015,RFT905,Cookies,Snacks,58.43,89.05,18,1330.41,0.17,Bangalore,Ravi,M,37,Karnataka,Karnataka
+OD253,12/10/2017,CLP711,Rice,Food Grains,39.43,67.39,2,109.18,0.19,Salem,Ramesh,M,22,Tamil Nadu,Tamil Nadu
+OD254,12/10/2017,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,24,600.51,0.34,Thene,Surya,F,36,Maharshtra,Maharshtra
+OD255,11/28/2016,CLP711,Rice,Food Grains,39.43,67.39,47,2312.31,0.27,Bhuwneshwar,Veronica,M,23,Orrisa,Orrisa
+OD256,11/28/2016,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,14,760.53,0.3,Solapur,Harish,F,17,Maharshtra,Maharshtra
+OD257,11/28/2016,SER922,,,,,43,1019.43,0.1,Mangalore,Ravi,M,37,Karnataka,Karnataka
+OD258,11/28/2016,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,33,1555.84,0.25,Surat,Sundar,M,34,Gujarat,Gujarat
+OD259,12/1/2018,SER922,,,,,42,785.51,0.29,Chennai,Esther,M,21,Tamil Nadu,Tamil Nadu
+OD260,12/1/2018,SER215,Breads & Buns,Bakery,160.08,222.68,44,6662.57,0.32,Shimoga,Shree,M,25,Karnataka,Karnataka
+OD261,12/1/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,33,1838.25,0.14,Ooty,Sabeela,F,37,Tamil Nadu,Tamil Nadu
+OD262,6/8/2018,RFT452,Organic Staples,Food Grains,35.91,79.56,27,1761.48,0.18,Krishnagiri,Ravi,M,37,Tamil Nadu,Tamil Nadu
+OD263,9/19/2015,RFT452,Organic Staples,Food Grains,35.91,79.56,9,479.75,0.33,Ujjan,Roshan,F,31,MadhyaPradesh,MadhyaPradesh
+OD264,9/19/2015,SER922,,,,,1,21.86,0.17,Tirupati,Vince,F,37,Andra Pradesh,Andra Pradesh
+OD265,6/6/2017,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,2,192.93,0.19,Krishnagiri,Jonas,M,35,Tamil Nadu,Tamil Nadu
+OD266,11/10/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,40,1243.47,0.18,Shimoga,Harish,F,17,Karnataka,Karnataka
+OD267,6/16/2018,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,27,474.63,0.34,Krishnagiri,Shah,F,22,Tamil Nadu,Tamil Nadu
+OD268,1/22/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,30,1301.93,0.33,Madhuri,Arvind,M,32,Tamil Nadu,Tamil Nadu
+OD269,12/9/2018,CLW531,Cakes,Bakery,31.96,59.97,24,1209.06,0.16,Manali,Adavan,F,37,Himachal Pradesh,Himachal Pradesh
+OD270,12/9/2018,SER922,,,,,21,492.33,0.11,Solapur,Suresh,F,20,Maharshtra,Maharshtra
+OD271,12/28/2018,RFT600,Noodles,Snacks,20.42,32.77,21,612.5,0.11,Wayanad,Esther,M,21,Kerala,Kerala
+OD272,7/30/2016,RFT600,Noodles,Snacks,20.42,32.77,9,203.51,0.31,Madhuri,Krithika,F,24,Tamil Nadu,Tamil Nadu
+OD273,7/30/2016,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,10,387.04,0.23,Nellore,Muneer,M,36,Andra Pradesh,Andra Pradesh
+OD274,7/30/2016,CLW531,Cakes,Bakery,31.96,59.97,26,1138.29,0.27,Cuttak,Hafiz,F,28,Orrisa,Orrisa
+OD275,9/16/2018,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,18,539.09,0.21,Delhi,Krithika,F,24,Delhi,Delhi
+OD276,9/16/2018,CLW531,Cakes,Bakery,31.96,59.97,26,1387.78,0.11,Krishnagiri,Amrish,M,23,Tamil Nadu,Tamil Nadu
+OD277,10/13/2018,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,47,4645.74,0.17,Aurangabad,Shah,F,22,Maharshtra,Maharshtra
+OD278,10/13/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,37,1917.27,0.2,Jabalpur,Ram,M,24,MadhyaPradesh,MadhyaPradesh
+OD279,10/13/2018,TYD646,Chocolates,Snacks,77.12,115.12,9,901.42,0.13,Nellore,Arutra,F,17,Andra Pradesh,Andra Pradesh
+OD280,10/13/2018,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,32,613.45,0.31,Delhi,Sabeela,F,37,Delhi,Delhi
+OD281,9/26/2016,TYD646,Chocolates,Snacks,77.12,115.12,36,3564.24,0.14,Bhopal,Vidya,F,24,MadhyaPradesh,MadhyaPradesh
+OD282,9/26/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,14,403.37,0.24,Shimoga,Roshan,F,31,Karnataka,Karnataka
+OD283,11/2/2016,SER922,,,,,35,700.69,0.24,Cuttak,Sheeba,M,22,Orrisa,Orrisa
+OD284,9/26/2016,TYD470,Biscuits,Bakery,14.86,25.06,3,55.62,0.26,Chamba,Amrish,M,23,Himachal Pradesh,Himachal Pradesh
+OD285,9/26/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,4,124.35,0.18,Delhi,Kumar,M,34,Delhi,Delhi
+OD286,9/26/2016,SER215,Breads & Buns,Bakery,160.08,222.68,4,730.39,0.18,Delhi,Ridhesh,F,20,Delhi,Delhi
+OD287,12/18/2017,CLW714,Spices,Oil & Masala,69.3,121.62,13,1343.92,0.15,Tirupati,Hafiz,F,28,Andra Pradesh,Andra Pradesh
+OD288,12/18/2017,RFT600,Noodles,Snacks,20.42,32.77,12,255.62,0.35,Surat,Sudha,F,22,Gujarat,Gujarat
+OD289,12/18/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,32,1302.86,0.19,Shimla,Suresh,F,20,Himachal Pradesh,Himachal Pradesh
+OD290,11/20/2017,TYD470,Biscuits,Bakery,14.86,25.06,17,353.53,0.17,Surat,Jonas,M,35,Gujarat,Gujarat
+OD291,11/20/2017,CLP711,Rice,Food Grains,39.43,67.39,20,1159.19,0.14,Vijayawada,Jonas,M,35,Andra Pradesh,Andra Pradesh
+OD292,11/20/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,3,99.52,0.34,Varodara,Amrish,M,23,Gujarat,Gujarat
+OD293,11/20/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,20,327.13,0.16,Vijayawada,Sheeba,M,22,Andra Pradesh,Andra Pradesh
+OD294,12/26/2015,TYD646,Chocolates,Snacks,77.12,115.12,4,373,0.19,Ujjan,Ram,M,24,MadhyaPradesh,MadhyaPradesh
+OD295,12/26/2015,RFT488,Masalas,Oil & Masala,38.76,64.77,43,2395.3,0.14,Wayanad,Sheeba,M,22,Kerala,Kerala
+OD296,12/26/2015,CLP711,Rice,Food Grains,39.43,67.39,16,808.74,0.25,Bangalore,Muneer,M,36,Karnataka,Karnataka
+OD297,12/26/2015,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,25,6391.01,0.21,Madhuri,Aditi,F,34,Tamil Nadu,Tamil Nadu
+OD298,12/26/2015,RFT488,Masalas,Oil & Masala,38.76,64.77,48,2642.73,0.15,Gandinager,Roshan,F,31,Gujarat,Gujarat
+OD299,10/28/2017,RFT452,Organic Staples,Food Grains,35.91,79.56,38,2327.95,0.23,Tirupati,Sundar,M,34,Andra Pradesh,Andra Pradesh
+OD300,10/28/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,50,2483.06,0.21,Manali,Sudha,F,22,Himachal Pradesh,Himachal Pradesh
+OD301,10/28/2017,SER215,Breads & Buns,Bakery,160.08,222.68,45,6713.78,0.33,Manali,Haseena,F,35,Himachal Pradesh,Himachal Pradesh
+OD302,10/28/2017,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,8,2148.67,0.17,Kollam,Willams,F,31,Kerala,Kerala
+OD303,10/28/2017,SER215,Breads & Buns,Bakery,160.08,222.68,45,7715.84,0.23,Manali,Veronica,M,23,Himachal Pradesh,Himachal Pradesh
+OD304,11/19/2018,RFT905,Cookies,Snacks,58.43,89.05,5,333.94,0.25,Mysore,Muneer,M,36,Karnataka,Karnataka
+OD305,5/4/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,27,7513.89,0.14,Gandinager,Anu,M,20,Gujarat,Gujarat
+OD306,12/30/2015,SER215,Breads & Buns,Bakery,160.08,222.68,10,1781.43,0.2,Mysore,Veronica,M,23,Karnataka,Karnataka
+OD307,6/1/2015,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,17,857.54,0.35,Chennai,Verma,F,36,Tamil Nadu,Tamil Nadu
+OD308,6/1/2015,CLW714,Spices,Oil & Masala,69.3,121.62,11,1097.03,0.18,Madhuri,Sundar,M,34,Tamil Nadu,Tamil Nadu
+OD309,4/15/2018,RFT905,Cookies,Snacks,58.43,89.05,26,1690.17,0.27,Thene,Esther,M,21,Maharshtra,Maharshtra
+OD310,9/12/2017,RFT600,Noodles,Snacks,20.42,32.77,11,266.76,0.26,Jabalpur,Vinne,M,31,MadhyaPradesh,MadhyaPradesh
+OD311,9/12/2017,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,7,1608.27,0.29,Shimoga,Peer,M,18,Karnataka,Karnataka
+OD312,9/12/2017,TYD646,Chocolates,Snacks,77.12,115.12,4,331.56,0.28,Madhuri,Harish,F,17,Tamil Nadu,Tamil Nadu
+OD313,9/12/2017,SER922,,,,,9,194.4,0.18,Delhi,Willams,F,31,Delhi,Delhi
+OD314,9/27/2015,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,15,989.46,0.15,Nellore,Vidya,F,24,Andra Pradesh,Andra Pradesh
+OD315,8/9/2015,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,2,89.26,0.29,Krishnagiri,Arutra,F,17,Tamil Nadu,Tamil Nadu
+OD316,8/9/2015,RFT600,Noodles,Snacks,20.42,32.77,17,434.55,0.22,Mysore,Malik,F,18,Karnataka,Karnataka
+OD317,12/28/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,10,219.49,0.21,Kanoor,Peer,M,18,Kerala,Kerala
+OD318,11/4/2015,CLW531,Cakes,Bakery,31.96,59.97,8,369.44,0.23,Kanoor,Arvind,M,32,Kerala,Kerala
+OD319,11/4/2015,RFT905,Cookies,Snacks,58.43,89.05,1,67.68,0.24,Chennai,Sudeep,F,18,Tamil Nadu,Tamil Nadu
+OD320,11/4/2015,RFT452,Organic Staples,Food Grains,35.91,79.56,32,2138.59,0.16,Wayanad,Arvind,M,32,Kerala,Kerala
+OD321,11/4/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,42,840.16,0.28,Chamba,Alan,F,29,Himachal Pradesh,Himachal Pradesh
+OD322,11/4/2015,CLW714,Spices,Oil & Masala,69.3,121.62,40,4086.49,0.16,Dwarka,Sheeba,M,22,Gujarat,Gujarat
+OD323,9/19/2015,CLW531,Cakes,Bakery,31.96,59.97,9,453.4,0.16,Chennai,Arvind,M,32,Tamil Nadu,Tamil Nadu
+OD325,4/23/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,24,526.76,0.21,Ooty,Amrish,M,23,Tamil Nadu,Tamil Nadu
+OD326,11/3/2018,CLP711,Rice,Food Grains,39.43,67.39,25,1398.44,0.17,Ahmedabad,Ravi,M,37,Gujarat,Gujarat
+OD327,8/30/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,34,736.8,0.22,Wayanad,Verma,F,36,Kerala,Kerala
+OD331,8/30/2017,RFT600,Noodles,Snacks,20.42,32.77,26,749.81,0.12,Kozhikode,Krithika,F,24,Kerala,Kerala
+OD332,4/25/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,2,81.43,0.19,Tirupati,Shree,M,25,Andra Pradesh,Andra Pradesh
+OD334,4/25/2017,SER215,Breads & Buns,Bakery,160.08,222.68,4,578.97,0.35,Sanchi,Akash,F,30,MadhyaPradesh,MadhyaPradesh
+OD335,9/1/2016,CLW714,Spices,Oil & Masala,69.3,121.62,30,2736.49,0.25,Guntur,Verma,F,36,Andra Pradesh,Andra Pradesh
+OD336,9/1/2016,CLP711,Rice,Food Grains,39.43,67.39,50,2561,0.24,Thene,Yadav,M,23,Maharshtra,Maharshtra
+OD337,9/1/2016,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,35,981.89,0.26,Delhi,Alan,F,29,Delhi,Delhi
+OD338,7/12/2015,CLW531,Cakes,Bakery,31.96,59.97,35,1679.25,0.2,Chamba,Hussain,M,34,Himachal Pradesh,Himachal Pradesh
+OD339,7/12/2015,SER118,Atta & Flour,Food Grains,182.9,248.95,36,6363.04,0.29,Chamba,Suresh,F,20,Himachal Pradesh,Himachal Pradesh
+OD340,6/22/2016,TYD470,Biscuits,Bakery,14.86,25.06,21,389.36,0.26,Delhi,Willams,F,31,Delhi,Delhi
+OD341,4/13/2015,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,19,4857.17,0.21,Kollam,Hussain,M,34,Kerala,Kerala
+OD342,4/13/2015,SER922,,,,,5,85.61,0.35,Vijayawada,Sundar,M,34,Andra Pradesh,Andra Pradesh
+OD343,4/13/2015,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,41,829.93,0.24,Guntur,Harish,F,17,Andra Pradesh,Andra Pradesh
+OD344,4/13/2015,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,4,98.57,0.35,Krishnagiri,Suresh,F,20,Tamil Nadu,Tamil Nadu
+OD345,12/20/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,26,623.25,0.1,Ooty,Vinne,M,31,Tamil Nadu,Tamil Nadu
+OD346,6/15/2018,SER215,Breads & Buns,Bakery,160.08,222.68,15,2271.33,0.32,Thiruvananthapuram,Willams,F,31,Kerala,Kerala
+OD347,7/8/2018,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,16,479.19,0.21,Kolar,Suresh,F,20,Karnataka,Karnataka
+OD348,7/8/2018,CLP711,Rice,Food Grains,39.43,67.39,40,2426.21,0.1,Thiruvananthapuram,Roshan,F,31,Kerala,Kerala
+OD349,7/8/2018,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,38,880.54,0.13,Gwalior,Haseena,F,35,MadhyaPradesh,MadhyaPradesh
+OD350,9/1/2017,SER118,Atta & Flour,Food Grains,182.9,248.95,41,8471.6,0.17,Delhi,Sabeela,F,37,Delhi,Delhi
+OD351,9/1/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,12,246.71,0.26,Shimoga,Willams,F,31,Karnataka,Karnataka
+OD352,9/1/2017,SER215,Breads & Buns,Bakery,160.08,222.68,19,3342.42,0.21,Cuttak,Shah,F,22,Orrisa,Orrisa
+OD353,9/1/2017,CLP711,Rice,Food Grains,39.43,67.39,1,59.31,0.12,Thiruvananthapuram,Krithika,F,24,Kerala,Kerala
+OD355,4/8/2017,TYD470,Biscuits,Bakery,14.86,25.06,41,667.73,0.35,Delhi,Surya,F,36,Delhi,Delhi
+OD356,4/8/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,48,1053.53,0.21,Jabalpur,Yadav,M,23,MadhyaPradesh,MadhyaPradesh
+OD357,4/8/2017,RFT905,Cookies,Snacks,58.43,89.05,45,3205.8,0.2,Gwalior,Malik,F,18,MadhyaPradesh,MadhyaPradesh
+OD358,4/8/2017,CLW714,Spices,Oil & Masala,69.3,121.62,14,1379.19,0.19,Ooty,Vidya,F,24,Tamil Nadu,Tamil Nadu
+OD359,4/23/2017,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,3,73.93,0.35,Chennai,Sabeela,F,37,Tamil Nadu,Tamil Nadu
+OD360,3/8/2018,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,10,329.82,0.13,Vijayawada,Ridhesh,F,20,Andra Pradesh,Andra Pradesh
+OD361,3/8/2018,RFT600,Noodles,Snacks,20.42,32.77,34,969.38,0.13,Shimla,Amrish,M,23,Himachal Pradesh,Himachal Pradesh
+OD362,9/25/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,31,525.17,0.13,Kolar,Veena,F,21,Karnataka,Karnataka
+OD363,9/25/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,45,683.48,0.22,Bangalore,Veronica,M,23,Karnataka,Karnataka
+OD364,9/25/2018,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,49,2002.16,0.35,Salem,Krithika,F,24,Tamil Nadu,Tamil Nadu
+OD366,9/24/2015,CLW531,Cakes,Bakery,31.96,59.97,19,831.83,0.27,Krishnagiri,Roshan,F,31,Tamil Nadu,Tamil Nadu
+OD367,10/21/2017,RFT600,Noodles,Snacks,20.42,32.77,39,1137.5,0.11,Salem,Yusuf,F,32,Tamil Nadu,Tamil Nadu
+OD368,10/21/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,20,993.22,0.21,Surat,Amrish,M,23,Gujarat,Gujarat
+OD369,10/21/2017,TYD470,Biscuits,Bakery,14.86,25.06,23,437.97,0.24,Thiruvananthapuram,Vince,F,37,Kerala,Kerala
+OD370,10/21/2017,CLW714,Spices,Oil & Masala,69.3,121.62,21,1864.46,0.27,Chennai,Mathew,F,27,Tamil Nadu,Tamil Nadu
+OD371,5/29/2018,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,2,43.9,0.21,Kozhikode,Malik,F,18,Kerala,Kerala
+OD372,5/29/2018,CLP711,Rice,Food Grains,39.43,67.39,39,2207.85,0.16,Rajkot,Sudeep,F,18,Gujarat,Gujarat
+OD373,7/23/2015,SER215,Breads & Buns,Bakery,160.08,222.68,40,5967.81,0.33,Ahmedabad,Arvind,M,32,Gujarat,Gujarat
+OD375,7/23/2015,CLW714,Spices,Oil & Masala,69.3,121.62,37,3060,0.32,Kozhikode,Sharon,F,25,Kerala,Kerala
+OD376,7/23/2015,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,28,1144.09,0.35,Cuttak,Hussain,M,34,Orrisa,Orrisa
+OD377,9/28/2017,TYD646,Chocolates,Snacks,77.12,115.12,32,2689.3,0.27,Kochi,Ganesh,F,35,Kerala,Kerala
+OD378,8/27/2018,SER118,Atta & Flour,Food Grains,182.9,248.95,20,3584.81,0.28,Ahmedabad,Ganesh,F,35,Gujarat,Gujarat
+OD379,4/28/2016,CLP711,Rice,Food Grains,39.43,67.39,11,615.31,0.17,Wayanad,Sudeep,F,18,Kerala,Kerala
+OD380,4/28/2016,CLW714,Spices,Oil & Masala,69.3,121.62,22,1980,0.26,Kolar,Hussain,M,34,Karnataka,Karnataka
+OD381,4/28/2016,CLP711,Rice,Food Grains,39.43,67.39,6,319.45,0.21,Solapur,Krithika,F,24,Maharshtra,Maharshtra
+OD382,10/28/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,47,2222.35,0.27,Gwalior,Ram,M,24,MadhyaPradesh,MadhyaPradesh
+OD383,10/28/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,15,622.34,0.34,Kasauli,Mathew,F,27,Himachal Pradesh,Himachal Pradesh
+OD385,11/27/2016,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,9,486.55,0.14,Kasauli,Surya,F,36,Himachal Pradesh,Himachal Pradesh
+OD386,11/27/2016,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,6,271.43,0.1,Dharamsala,Sabeela,F,37,Himachal Pradesh,Himachal Pradesh
+OD387,12/3/2016,TYD470,Biscuits,Bakery,14.86,25.06,26,514.64,0.21,Kollam,Esther,M,21,Kerala,Kerala
+OD388,12/3/2016,RFT905,Cookies,Snacks,58.43,89.05,10,694.59,0.22,Sanchi,Harish,F,17,MadhyaPradesh,MadhyaPradesh
+OD389,11/24/2015,TYD646,Chocolates,Snacks,77.12,115.12,4,373,0.19,Mysore,Malik,F,18,Karnataka,Karnataka
+OD390,12/11/2018,TYD470,Biscuits,Bakery,14.86,25.06,21,426.19,0.19,Jabalpur,Shree,M,25,MadhyaPradesh,MadhyaPradesh
+OD391,12/11/2018,SER215,Breads & Buns,Bakery,160.08,222.68,48,8764.66,0.18,Manali,Jonas,M,35,Himachal Pradesh,Himachal Pradesh
+OD392,9/21/2015,CLW714,Spices,Oil & Masala,69.3,121.62,32,2568.65,0.34,Madhuri,Hafiz,F,28,Tamil Nadu,Tamil Nadu
+OD393,9/21/2015,SER118,Atta & Flour,Food Grains,182.9,248.95,28,4879.32,0.3,Gwalior,Hussain,M,34,MadhyaPradesh,MadhyaPradesh
+OD394,6/7/2015,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,45,10338.88,0.29,Solapur,Ridhesh,F,20,Maharshtra,Maharshtra
+OD395,6/30/2018,CLP711,Rice,Food Grains,39.43,67.39,9,539.83,0.11,Gwalior,Suresh,F,20,MadhyaPradesh,MadhyaPradesh
+OD396,10/17/2018,CLW531,Cakes,Bakery,31.96,59.97,31,1412.97,0.24,Dwarka,Sheeba,M,22,Gujarat,Gujarat
+OD397,10/17/2018,SER922,,,,,5,101.42,0.23,Dhenkanal,Ram,M,24,Orrisa,Orrisa
+OD398,10/31/2016,RFT600,Noodles,Snacks,20.42,32.77,2,43.91,0.33,Thiruvananthapuram,Rumaiza,M,28,Kerala,Kerala
+OD399,9/8/2017,SER215,Breads & Buns,Bakery,160.08,222.68,15,2672.15,0.2,Varodara,Mathew,F,27,Gujarat,Gujarat
+OD402,9/8/2017,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,50,1025.43,0.23,Cuttak,Adavan,F,37,Orrisa,Orrisa
+OD403,12/24/2015,CLW531,Cakes,Bakery,31.96,59.97,15,773.66,0.14,Surat,Willams,F,31,Gujarat,Gujarat
+OD404,4/16/2015,RFT905,Cookies,Snacks,58.43,89.05,11,744.46,0.24,Kasauli,Shree,M,25,Himachal Pradesh,Himachal Pradesh
+OD405,12/24/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,14,770.8,0.15,Thiruvananthapuram,Alan,F,29,Kerala,Kerala
+OD406,12/8/2018,SER118,Atta & Flour,Food Grains,182.9,248.95,38,6527.34,0.31,Varodara,Kumar,M,34,Gujarat,Gujarat
+OD407,12/8/2018,CLP711,Rice,Food Grains,39.43,67.39,45,2517.19,0.17,Cuttak,Sharon,F,25,Orrisa,Orrisa
+OD408,12/8/2018,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,3,190.91,0.18,Delhi,Ravi,M,37,Delhi,Delhi
+OD409,12/8/2018,SER922,,,,,22,388.28,0.33,Ujjan,Surya,F,36,MadhyaPradesh,MadhyaPradesh
+OD410,12/8/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,33,552.62,0.14,Delhi,Krithika,F,24,Delhi,Delhi
+OD411,12/8/2018,CLW531,Cakes,Bakery,31.96,59.97,39,1684.05,0.28,Guntur,Krithika,F,24,Andra Pradesh,Andra Pradesh
+OD412,12/8/2018,RFT905,Cookies,Snacks,58.43,89.05,47,3599.4,0.14,Vijayawada,Harish,F,17,Andra Pradesh,Andra Pradesh
+OD413,12/8/2018,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,6,1572.67,0.19,Bharampur,Jonas,M,35,Orrisa,Orrisa
+OD414,12/8/2018,SER215,Breads & Buns,Bakery,160.08,222.68,20,3340.19,0.25,Delhi,Ridhesh,F,20,Delhi,Delhi
+OD415,11/3/2018,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,14,1150.42,0.31,Ooty,Sudha,F,22,Tamil Nadu,Tamil Nadu
+OD416,11/3/2018,TYD656,,,,,5,279.68,0.23,Kozhikode,Arvind,M,32,Kerala,Kerala
+OD417,6/24/2018,RFT905,Cookies,Snacks,58.43,89.05,24,1752.5,0.18,Madhuri,Ramesh,M,22,Tamil Nadu,Tamil Nadu
+OD418,4/14/2017,SER922,,,,,27,640.11,0.1,Chennai,Amrish,M,23,Tamil Nadu,Tamil Nadu
+OD419,11/6/2018,TYD656,,,,,47,3072.83,0.1,Kollam,Jackson,F,21,Kerala,Kerala
+OD421,3/4/2018,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,34,3077.31,0.24,Ooty,Shree,M,25,Tamil Nadu,Tamil Nadu
+OD422,6/22/2015,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,18,769.05,0.15,Dhenkanal,Komal,M,21,Orrisa,Orrisa
+OD423,10/19/2018,SER215,Breads & Buns,Bakery,160.08,222.68,25,4063.9,0.27,Wayanad,Malik,F,18,Kerala,Kerala
+OD424,10/19/2018,RFT452,Organic Staples,Food Grains,35.91,79.56,34,2137,0.21,Mumbai,Sheeba,M,22,Maharshtra,Maharshtra
+OD425,8/21/2018,CLW531,Cakes,Bakery,31.96,59.97,20,875.61,0.27,Sanchi,Veena,F,21,MadhyaPradesh,MadhyaPradesh
+OD426,11/23/2018,SER922,,,,,35,728.35,0.21,Shimoga,Arvind,M,32,Karnataka,Karnataka
+OD428,9/12/2015,RFT600,Noodles,Snacks,20.42,32.77,50,1474.72,0.1,Dharamsala,Amrish,M,23,Himachal Pradesh,Himachal Pradesh
+OD429,10/1/2018,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,41,1259.02,0.19,Shimoga,Willams,F,31,Karnataka,Karnataka
+OD430,4/15/2017,CLP711,Rice,Food Grains,39.43,67.39,14,632.16,0.33,Rajkot,Sudeep,F,18,Gujarat,Gujarat
+OD431,4/15/2017,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,10,551,0.29,Solapur,Harish,F,17,Maharshtra,Maharshtra
+OD432,4/15/2017,RFT452,Organic Staples,Food Grains,35.91,79.56,14,801.97,0.28,Bhuwneshwar,Yusuf,F,32,Orrisa,Orrisa
+OD433,4/15/2017,SER922,,,,,17,295.56,0.34,Mangalore,Esther,M,21,Karnataka,Karnataka
+OD434,6/6/2017,SER215,Breads & Buns,Bakery,160.08,222.68,23,4558.25,0.11,Bhuwneshwar,Roshan,F,31,Orrisa,Orrisa
+OD435,12/19/2015,RFT600,Noodles,Snacks,20.42,32.77,35,1009.36,0.12,Gwalior,Rumaiza,M,28,MadhyaPradesh,MadhyaPradesh
+OD436,12/19/2015,RFT905,Cookies,Snacks,58.43,89.05,14,1059.69,0.15,Tirupati,Haseena,F,35,Andra Pradesh,Andra Pradesh
+OD437,6/12/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,35,613.38,0.1,Chennai,Ram,M,24,Tamil Nadu,Tamil Nadu
+OD438,6/12/2017,RFT600,Noodles,Snacks,20.42,32.77,29,712.78,0.25,Angul,Aditi,F,34,Orrisa,Orrisa
+OD439,9/15/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,44,1909.5,0.33,Madhuri,Sabeela,F,37,Tamil Nadu,Tamil Nadu
+OD440,1/20/2018,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,25,967.59,0.23,Ujjan,Malik,F,18,MadhyaPradesh,MadhyaPradesh
+OD441,9/5/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,13,252.82,0.3,Tirupati,Sudeep,F,18,Andra Pradesh,Andra Pradesh
+OD442,9/5/2017,RFT600,Noodles,Snacks,20.42,32.77,22,526.31,0.27,Dharamsala,James,M,32,Himachal Pradesh,Himachal Pradesh
+OD443,9/5/2017,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,41,3417.91,0.3,Ooty,Sudha,F,22,Tamil Nadu,Tamil Nadu
+OD444,9/5/2017,TYD656,,,,,43,2405.23,0.23,Kasauli,Amrish,M,23,Himachal Pradesh,Himachal Pradesh
+OD445,9/5/2017,TYD656,,,,,47,2628.97,0.23,Aurangabad,Sudeep,F,18,Maharshtra,Maharshtra
+OD446,9/5/2017,TYD646,Chocolates,Snacks,77.12,115.12,15,1364.22,0.21,Solapur,Yadav,M,23,Maharshtra,Maharshtra
+OD447,3/20/2018,TYD646,Chocolates,Snacks,77.12,115.12,29,2370.4,0.29,Dhenkanal,Malik,F,18,Orrisa,Orrisa
+OD448,4/1/2017,SER922,,,,,30,616.4,0.22,Chennai,Shree,M,25,Tamil Nadu,Tamil Nadu
+OD449,4/1/2017,CLW531,Cakes,Bakery,31.96,59.97,26,1185.07,0.24,Kozhikode,Ganesh,F,35,Kerala,Kerala
+OD450,4/1/2017,TYD656,,,,,34,1605.43,0.35,Salem,Sudha,F,22,Tamil Nadu,Tamil Nadu
+OD451,4/1/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,42,2094.75,0.23,Kochi,Amy,M,34,Kerala,Kerala
+OD452,4/1/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,23,1041,0.28,Bhopal,Verma,F,36,MadhyaPradesh,MadhyaPradesh
+OD453,4/1/2017,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,30,7475.06,0.23,Ahmedabad,Veena,F,21,Gujarat,Gujarat
+OD454,10/20/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,1,57.65,0.11,Angul,Esther,M,21,Orrisa,Orrisa
+OD455,10/20/2018,TYD470,Biscuits,Bakery,14.86,25.06,17,340.75,0.2,Salem,Ramesh,M,22,Tamil Nadu,Tamil Nadu
+OD456,12/13/2017,RFT600,Noodles,Snacks,20.42,32.77,8,183.52,0.3,Kanoor,Sharon,F,25,Kerala,Kerala
+OD457,2/12/2015,TYD656,,,,,39,2096.5,0.26,Shimoga,Ridhesh,F,20,Karnataka,Karnataka
+OD458,9/26/2017,TYD656,,,,,13,755.49,0.2,Delhi,Akash,F,30,Delhi,Delhi
+OD459,9/26/2017,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,17,316.95,0.3,Sanchi,Muneer,M,36,MadhyaPradesh,MadhyaPradesh
+OD460,12/15/2016,SER118,Atta & Flour,Food Grains,182.9,248.95,14,2509.37,0.28,Kanoor,Krithika,F,24,Kerala,Kerala
+OD461,12/15/2016,SER118,Atta & Flour,Food Grains,182.9,248.95,45,10082.28,0.1,Gandinager,Veronica,M,23,Gujarat,Gujarat
+OD462,12/15/2016,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,29,406.58,0.28,Ujjan,Ramesh,M,22,MadhyaPradesh,MadhyaPradesh
+OD464,4/22/2017,RFT452,Organic Staples,Food Grains,35.91,79.56,47,2879.31,0.23,Tirupati,Amrish,M,23,Andra Pradesh,Andra Pradesh
+OD465,4/22/2017,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,15,304.22,0.27,Guntur,Krithika,F,24,Andra Pradesh,Andra Pradesh
+OD466,4/22/2017,SER922,,,,,3,61.64,0.22,Ujjan,Veena,F,21,MadhyaPradesh,MadhyaPradesh
+OD467,4/22/2017,TYD646,Chocolates,Snacks,77.12,115.12,28,2385.37,0.26,Bhuwneshwar,Alan,F,29,Orrisa,Orrisa
+OD468,1/17/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,7,1789.48,0.21,Tirupati,Shah,F,22,Andra Pradesh,Andra Pradesh
+OD469,3/31/2018,TYD470,Biscuits,Bakery,14.86,25.06,35,736.63,0.16,Wayanad,Adavan,F,37,Kerala,Kerala
+OD470,12/16/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,16,554.92,0.31,Manali,Hussain,M,34,Himachal Pradesh,Himachal Pradesh
+OD471,12/20/2016,SER922,,,,,16,316.1,0.25,Dwarka,Yadav,M,23,Gujarat,Gujarat
+OD472,11/9/2015,SER215,Breads & Buns,Bakery,160.08,222.68,10,1714.63,0.23,Shimoga,Yadav,M,23,Karnataka,Karnataka
+OD473,11/9/2015,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,3,53.54,0.33,Pune,Amrish,M,23,Maharshtra,Maharshtra
+OD474,11/9/2015,SER922,,,,,8,139.08,0.34,Manali,Yadav,M,23,Himachal Pradesh,Himachal Pradesh
+OD475,11/9/2015,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,27,2604.52,0.19,Dwarka,Esther,M,21,Gujarat,Gujarat
+OD476,11/9/2015,RFT488,Masalas,Oil & Masala,38.76,64.77,20,1062.27,0.18,Dharamsala,Haseena,F,35,Himachal Pradesh,Himachal Pradesh
+OD477,11/9/2015,SER215,Breads & Buns,Bakery,160.08,222.68,35,6079.15,0.22,Thiruvananthapuram,Hussain,M,34,Kerala,Kerala
+OD478,7/12/2017,RFT452,Organic Staples,Food Grains,35.91,79.56,36,2148.14,0.25,Madhuri,Rumaiza,M,28,Tamil Nadu,Tamil Nadu
+OD479,10/27/2017,SER118,Atta & Flour,Food Grains,182.9,248.95,2,428.19,0.14,Delhi,Rumaiza,M,28,Delhi,Delhi
+OD480,6/26/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,20,884.66,0.12,Varodara,Jackson,F,21,Gujarat,Gujarat
+OD481,6/26/2017,TYD646,Chocolates,Snacks,77.12,115.12,13,1167.36,0.22,Delhi,Ravi,M,37,Delhi,Delhi
+OD482,10/6/2015,CLW531,Cakes,Bakery,31.96,59.97,38,1709.24,0.25,Varodara,Shah,F,22,Gujarat,Gujarat
+OD483,7/22/2015,CLW531,Cakes,Bakery,31.96,59.97,15,809.64,0.1,Ahmedabad,James,M,32,Gujarat,Gujarat
+OD484,7/22/2015,SER118,Atta & Flour,Food Grains,182.9,248.95,29,5558.95,0.23,Tirupati,Sudha,F,22,Andra Pradesh,Andra Pradesh
+OD485,6/10/2018,RFT905,Cookies,Snacks,58.43,89.05,18,1298.35,0.19,Delhi,Vince,F,37,Delhi,Delhi
+OD486,6/10/2018,RFT905,Cookies,Snacks,58.43,89.05,10,765.83,0.14,Kasauli,Ramesh,M,22,Himachal Pradesh,Himachal Pradesh
+OD487,6/10/2018,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,47,2031.69,0.14,Angul,Harish,F,17,Orrisa,Orrisa
+OD488,10/29/2015,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,33,1535.1,0.26,Kanoor,Sabeela,F,37,Kerala,Kerala
+OD489,6/9/2015,RFT905,Cookies,Snacks,58.43,89.05,36,2244.06,0.3,Ahmedabad,Haseena,F,35,Gujarat,Gujarat
+OD490,6/9/2015,TYD646,Chocolates,Snacks,77.12,115.12,2,207.22,0.1,Guntur,Vidya,F,24,Andra Pradesh,Andra Pradesh
+OD491,6/9/2015,CLW531,Cakes,Bakery,31.96,59.97,17,795.25,0.22,Pune,Amy,M,34,Maharshtra,Maharshtra
+OD492,9/14/2015,SER922,,,,,9,184.92,0.22,Varodara,Yadav,M,23,Gujarat,Gujarat
+OD493,9/14/2015,CLP190,Fresh Fruits,Fruits & Veggies,48.55,77.61,6,353.88,0.24,Delhi,Anu,M,20,Delhi,Delhi
+OD494,5/9/2017,SER922,,,,,17,300.03,0.33,Cuttak,Sheeba,M,22,Orrisa,Orrisa
+OD496,12/27/2016,SER922,,,,,16,282.38,0.33,Chamba,Ridhesh,F,20,Himachal Pradesh,Himachal Pradesh
+OD497,7/25/2017,SER118,Atta & Flour,Food Grains,182.9,248.95,44,8105.65,0.26,Dwarka,Komal,M,21,Gujarat,Gujarat
+OD499,7/25/2017,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,49,1393.22,0.25,Thene,Vidya,F,24,Maharshtra,Maharshtra
+OD500,7/25/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,19,859.96,0.28,Delhi,Komal,M,21,Delhi,Delhi
+OD501,5/30/2017,SER922,,,,,35,709.91,0.23,Delhi,Veena,F,21,Delhi,Delhi
+OD502,5/30/2017,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,15,1518.41,0.15,Mangalore,Arvind,M,32,Karnataka,Karnataka
+OD503,5/30/2017,RFT905,Cookies,Snacks,58.43,89.05,36,2660.81,0.17,Solapur,Peer,M,18,Maharshtra,Maharshtra
+OD504,5/30/2017,TYD656,,,,,17,938.56,0.24,Cuttak,Komal,M,21,Orrisa,Orrisa
+OD505,5/30/2017,SER215,Breads & Buns,Bakery,160.08,222.68,18,3366.91,0.16,Chennai,Esther,M,21,Tamil Nadu,Tamil Nadu
+OD507,3/16/2016,CLP711,Rice,Food Grains,39.43,67.39,2,110.53,0.18,Nellore,Aditi,F,34,Andra Pradesh,Andra Pradesh
+OD508,3/16/2016,TYD646,Chocolates,Snacks,77.12,115.12,17,1350.4,0.31,Kochi,Amrish,M,23,Kerala,Kerala
+OD509,3/16/2016,RFT600,Noodles,Snacks,20.42,32.77,23,520.08,0.31,Guntur,Kumar,M,34,Andra Pradesh,Andra Pradesh
+OD510,3/16/2016,TYD882,Edible Oil & Ghee,Oil & Masala,267.84,323.6,10,2232.81,0.31,Bhuwneshwar,Vince,F,37,Orrisa,Orrisa
+OD511,11/26/2018,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,11,392.57,0.29,Krishnagiri,Haseena,F,35,Tamil Nadu,Tamil Nadu
+OD512,11/26/2018,SER215,Breads & Buns,Bakery,160.08,222.68,3,447.59,0.33,Shimla,Shah,F,22,Himachal Pradesh,Himachal Pradesh
+OD513,10/20/2017,SER215,Breads & Buns,Bakery,160.08,222.68,8,1282.63,0.28,Manali,Aditi,F,34,Himachal Pradesh,Himachal Pradesh
+OD514,12/21/2018,RFT488,Masalas,Oil & Masala,38.76,64.77,30,1379.66,0.29,Jabalpur,Arutra,F,17,MadhyaPradesh,MadhyaPradesh
+OD516,1/22/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,6,88.79,0.24,Gandinager,Arvind,M,32,Gujarat,Gujarat
+OD517,1/22/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,3,48.49,0.17,Bharampur,Sundar,M,34,Orrisa,Orrisa
+OD518,1/22/2018,RFT600,Noodles,Snacks,20.42,32.77,32,922.85,0.12,Chennai,Ramesh,M,22,Tamil Nadu,Tamil Nadu
+OD519,1/22/2018,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,10,153.83,0.21,Kolar,Komal,M,21,Karnataka,Karnataka
+OD520,3/22/2016,SER215,Breads & Buns,Bakery,160.08,222.68,43,6989.9,0.27,Bhuwneshwar,Krithika,F,24,Orrisa,Orrisa
+OD521,3/22/2016,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,48,1991.48,0.34,Chennai,Arutra,F,17,Tamil Nadu,Tamil Nadu
+OD522,3/22/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,8,142.76,0.33,Kochi,Komal,M,21,Kerala,Kerala
+OD523,1/23/2018,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,17,311.72,0.34,Mangalore,Peer,M,18,Karnataka,Karnataka
+OD524,5/21/2017,RFT488,Masalas,Oil & Masala,38.76,64.77,37,1701.58,0.29,Rajkot,Jonas,M,35,Gujarat,Gujarat
+OD525,5/21/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,37,511.54,0.29,Rajkot,Amy,M,34,Gujarat,Gujarat
+OD526,12/26/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,35,727.13,0.22,Aurangabad,Suresh,F,20,Maharshtra,Maharshtra
+OD527,10/21/2018,CLW531,Cakes,Bakery,31.96,59.97,38,1663.66,0.27,Delhi,Sheeba,M,22,Delhi,Delhi
+OD528,10/21/2018,RFT600,Noodles,Snacks,20.42,32.77,29,684.27,0.28,Vijayawada,Verma,F,36,Andra Pradesh,Andra Pradesh
+OD529,9/3/2016,RFT905,Cookies,Snacks,58.43,89.05,2,119.33,0.33,Thiruvananthapuram,Krithika,F,24,Kerala,Kerala
+OD530,9/3/2016,SER215,Breads & Buns,Bakery,160.08,222.68,39,7555.51,0.13,Mysore,Vidya,F,24,Karnataka,Karnataka
+OD531,9/3/2016,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,50,4108.64,0.31,Cuttak,Komal,M,21,Orrisa,Orrisa
+OD532,11/7/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,49,1044.08,0.2,Tirupati,Roshan,F,31,Andra Pradesh,Andra Pradesh
+OD533,9/7/2018,RFT600,Noodles,Snacks,20.42,32.77,3,85.53,0.13,Angul,Veena,F,21,Orrisa,Orrisa
+OD534,5/29/2017,RFT452,Organic Staples,Food Grains,35.91,79.56,40,2482.3,0.22,Dharamsala,Aditi,F,34,Himachal Pradesh,Himachal Pradesh
+OD535,5/29/2017,TYD656,,,,,12,653.79,0.25,Tirupati,James,M,32,Andra Pradesh,Andra Pradesh
+OD536,7/10/2017,RFT600,Noodles,Snacks,20.42,32.77,18,489.61,0.17,Kollam,Willams,F,31,Kerala,Kerala
+OD537,9/3/2018,SER922,,,,,45,924.6,0.22,Varodara,Sudeep,F,18,Gujarat,Gujarat
+OD538,12/3/2016,SER922,,,,,19,390.39,0.22,Shimoga,Sheeba,M,22,Karnataka,Karnataka
+OD539,12/7/2016,CLP711,Rice,Food Grains,39.43,67.39,35,1792.7,0.24,Dwarka,Surya,F,36,Gujarat,Gujarat
+OD540,12/7/2016,TYD646,Chocolates,Snacks,77.12,115.12,31,2319.75,0.35,Solapur,Surya,F,36,Maharshtra,Maharshtra
+OD541,2/1/2015,SER922,,,,,7,134.61,0.27,Mumbai,Alan,F,29,Maharshtra,Maharshtra
+OD542,7/14/2017,CLW680,Organic Fruits,Fruits & Veggies,33.3,50.26,35,1548.15,0.12,Kochi,Sudha,F,22,Kerala,Kerala
+OD543,12/18/2016,SER922,,,,,28,545.8,0.26,Mangalore,Aditi,F,34,Karnataka,Karnataka
+OD544,5/11/2015,TYD646,Chocolates,Snacks,77.12,115.12,2,193.41,0.16,Kolar,Sundar,M,34,Karnataka,Karnataka
+OD545,5/11/2015,SER773,Fresh Vegetables,Fruits & Veggies,18.75,27.78,46,971.29,0.24,Manali,Arvind,M,32,Himachal Pradesh,Himachal Pradesh
+OD546,5/11/2015,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,19,435.21,0.14,Shimla,Surya,F,36,Himachal Pradesh,Himachal Pradesh
+OD547,11/19/2018,TYD646,Chocolates,Snacks,77.12,115.12,31,2498.19,0.3,Shimla,Yadav,M,23,Himachal Pradesh,Himachal Pradesh
+OD548,11/19/2018,CLW531,Cakes,Bakery,31.96,59.97,1,46.18,0.23,Krishnagiri,Komal,M,21,Tamil Nadu,Tamil Nadu
+OD549,11/15/2016,SER962,Fish,"Eggs, Meat & Fish",60.52,119.09,9,771.71,0.28,Kasauli,Adavan,F,37,Himachal Pradesh,Himachal Pradesh
+OD550,11/15/2016,SER922,,,,,35,645.37,0.3,Dhenkanal,Yadav,M,23,Orrisa,Orrisa
+OD551,11/15/2016,CLP156,Chicken,"Eggs, Meat & Fish",15.58,26.63,31,743.11,0.1,Krishnagiri,Ravi,M,37,Tamil Nadu,Tamil Nadu
+OD552,4/15/2017,TYD388,Mutton,"Eggs, Meat & Fish",31.87,62.86,18,837.33,0.26,Shimla,Verma,F,36,Himachal Pradesh,Himachal Pradesh
+OD553,9/11/2018,SER922,,,,,17,295.56,0.34,Chamba,Shree,M,25,Himachal Pradesh,Himachal Pradesh
+OD555,6/29/2018,CLW714,Spices,Oil & Masala,69.3,121.62,21,1890,0.26,Wayanad,Arutra,F,17,Kerala,Kerala
+OD556,3/3/2015,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,38,591.96,0.2,Jabalpur,Yadav,M,23,MadhyaPradesh,MadhyaPradesh
+OD557,6/10/2017,CLP243,Organic Vegetables,Fruits & Veggies,24.76,37.91,48,1292,0.29,Delhi,Yusuf,F,32,Delhi,Delhi
+OD558,6/10/2017,SER178,Eggs,"Eggs, Meat & Fish",9.81,19.47,42,662.45,0.19,Sanchi,Ganesh,F,35,MadhyaPradesh,MadhyaPradesh
